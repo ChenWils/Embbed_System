@@ -1,0 +1,1 @@
+This file is a python file to link the Blue tooth of the rpi (rpi as a sever and your pc as a client)
